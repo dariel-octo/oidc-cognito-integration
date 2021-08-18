@@ -111,3 +111,4 @@ config.js
 node_modules
 main.js
 .aws-sam/
+.DS_STORE
