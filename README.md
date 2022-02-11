@@ -51,7 +51,7 @@ The following is an - very open - policy for accessing the service:
             ]
         }
     ]
-}
+    }
 
 ### Lambda Service
 
